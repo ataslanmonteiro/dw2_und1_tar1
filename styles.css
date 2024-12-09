@@ -1,7 +1,11 @@
 .calculadora {
+  display: flex;
+  flex-direction: column;
   text-align: center;
-  margin: 50px auto;
+  align-items: center;
+  margin: 0 auto;
   padding: 15px;
   border: 1px solid #ccc;
   border-radius: 10px;
+  width: 300px;
 }
