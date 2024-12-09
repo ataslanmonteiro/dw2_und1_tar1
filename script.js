@@ -2,7 +2,7 @@ function calcular() {
   // Recebe os valores dos campos de entrada e da operação
   const ent1 = parseFloat(document.getElementById("ent1").value);
   const ent2 = parseFloat(document.getElementById("ent2").value);
-  const operacao = document.getElementById("operation").value;
+  const operacao = document.getElementById("operacao").value;
 
   // Realiza o cálculo escolhido
   let resultado;
